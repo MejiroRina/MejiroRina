@@ -1,5 +1,18 @@
 [![MejiroRina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MejiroRina)](https://github.com/anuraghazra/github-readme-stats)
 
+# About Me
+## Name
+Known as 星雲希凪, 希凪, Kinagi
+
+## Mainly Use Code Languages
+Python
+
+## Accept Speak Languages
+Chinese, Cantonese, Japanese, English
+
+## Details
+I am focusing on Instant Messenger Bot developing (including QQ, Discord, Telegram) and backend developing.
+
 <!--
 **MejiroRina/MejiroRina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
