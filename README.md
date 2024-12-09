@@ -2,17 +2,18 @@
 
 # About Me
   
-#### Name
-Known as `星雲希凪`, `希凪`, `Kinagi`
+### Name
+
+> Known as `星雲希凪`, `希凪`, `Kinagi`
   
 #### Mainly Use Code Languages
-Python
+> `Python`
   
 #### Accept Speak Languages
-Chinese, Cantonese, Japanese, English
+> Chinese, Cantonese, Japanese, English
   
 #### Details
-I am focusing on Instant Messenger Bot developing (including QQ, Discord, Telegram) and backend developing.
+> I am focusing on Instant Messenger Bot developing (including QQ, Discord, Telegram), backend developing and game data mining.
 
 <!--
 **MejiroRina/MejiroRina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
