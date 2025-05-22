@@ -7,13 +7,14 @@
 > Known as `星雲希凪`, `希凪`, `Kinagi`
   
 #### Mainly Use Code Languages
-> `Python`
+> `Python`, `TypeScript`, `Vue.js`
   
-#### Accept Speak Languages
+#### Accept Languages
 > Chinese, Cantonese, Japanese, English
   
 #### Details
 > I am focusing on Instant Messenger Bot developing (including QQ, Discord, Telegram), backend developing and game data mining.
+> I am the leader of Haruki Dev Team currently, which is focus on serving about game `Project Sekai`
 
 <!--
 **MejiroRina/MejiroRina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
