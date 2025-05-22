@@ -13,7 +13,7 @@
 > Chinese, Cantonese, Japanese, English
   
 #### Details
-> I am focusing on Instant Messenger Bot developing (including QQ, Discord, Telegram), backend developing and game data mining.
+> I am focusing on Instant Messenger Bot developing (including QQ, Discord, Telegram), backend developing and game data mining.  
 > I am the leader of Haruki Dev Team currently, which is focus on serving about game `Project Sekai`
 
 <!--
