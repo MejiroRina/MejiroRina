@@ -7,7 +7,7 @@
 > Known as `星雲希凪`, `希凪`, `Kinagi`
   
 #### Mainly Use Code Languages
-> `Python`, `TypeScript`, `Vue.js`
+> `Python`, `Go`, `TypeScript`, `Vue.js`
   
 #### Accept Languages
 > Chinese, Cantonese, Japanese, English
