@@ -1,5 +1,4 @@
-[![MejiroRina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MejiroRina)](https://github.com/anuraghazra/github-readme-stats)
-
+[![MejiroRina's GitHub stats](https://github-stats-extended.vercel.app/api?username=MejiroRina)](https://github.com/stats-organization/github-stats-extended)
 # About Me
   
 ### Name
